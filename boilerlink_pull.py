@@ -19,6 +19,8 @@ filtereddata = [
         event["location"],
         event["startsOn"],
         event["endsOn"],
+        event["imagePath"],
+        event["theme"]
     ]
     for event in events #repeats to find all qualified 'events'
 ]
