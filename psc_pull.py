@@ -24,18 +24,18 @@ print (titles)
 #Review 'titles', as it has titles & their links.
 
 for event in evdata.find_all("h3", class_="em-card_title"):
-    print(event.get_text(strip=True))
-    print("\n")
+    #print(event.get_text(strip=True))
+    #print("\n")
     PSCevents.append(event.get_text(strip=True))
 
 
 for event in evdata.find_all("h3", class_="em-card_title" and "a"): #Change the href_, as it looks for that specific length
-    print(event.get_text(strip=True))
+    #print(event.get_text(strip=True))
     PSClinks.append(event.get_text(strip=True))
 
 #Marks Time AND Location. Format = <Time> , <Location>
 for event in evdata.find_all("p", class_="em-card_event-text"):
-    print(event.get_text(strip=True))
+    #print(event.get_text(strip=True))
     PSClocate.append(event.get_text(strip=True))
 
 PSCcombined = set(zip(PSCevents, PSClocate[1::2], PSClocate[::2]))
@@ -46,4 +46,4 @@ PSCcombined = set(zip(PSCevents, PSClocate[1::2], PSClocate[::2]))
 #print (PSCevents)
 #print (PSClinks)
 #print (PSClocate)
-#print (PSCcombined)
+print (PSCcombined)
