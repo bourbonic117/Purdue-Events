@@ -1,6 +1,6 @@
 #TECH 120 Group 3 Final Project (Purdue Event Data Scraper) (Boiler Link)
 
-#Pull from Purdue Student Centre Website Calendar
+#Pull from Purdue Student Center Website Calendar
 import requests
 import bs4
 
@@ -15,17 +15,35 @@ evdata = bs4.BeautifulSoup(pullinfoPSC.content, "html.parser")
 #Original Information is too much for Terminal to handle.
 PSCevents = []
 PSCdetails = []
+PSClinks = []
+PSClocate = []
 
+titles = evdata.find_all("h3", class_="em-card_title")
+print (titles)
+#Check through the 'Network' Section and digest the event cards??
+#Review 'titles', as it has titles & their links.
 
 for event in evdata.find_all("h3", class_="em-card_title"):
     print(event.get_text(strip=True))
     print("\n")
     PSCevents.append(event.get_text(strip=True))
-#---------------------------------------------------------------#
-#NOTE: ONLY GRABS: Event Names. Other Attributes TBD..
-#---------------------------------------------------------------#
 
-#Removes Duplicate Events
-PSCevents = list(set(PSCevents))
-print (PSCevents)
 
+for event in evdata.find_all("h3", class_="em-card_title" and "a"): #Change the href_, as it looks for that specific length
+    print(event.get_text(strip=True))
+    PSClinks.append(event.get_text(strip=True))
+
+#Marks Time AND Location. Format = <Time> , <Location>
+for event in evdata.find_all("p", class_="em-card_event-text"):
+    print(event.get_text(strip=True))
+    PSClocate.append(event.get_text(strip=True))
+
+PSCcombined = set(zip(PSCevents, PSClocate[1::2], PSClocate[::2]))
+
+#--------Troubleshooting_Problems---------------------------------
+
+#filterevents =evdata.find_all("p", class_="em-card_event-text")
+#print (PSCevents)
+#print (PSClinks)
+#print (PSClocate)
+#print (PSCcombined)
