@@ -12,7 +12,7 @@ pullinfoPSC = requests.get(Pstudentctr)
 evdata = bs4.BeautifulSoup(pullinfoPSC.content, "html.parser")
 #print (evdata)
 
-#Original Information is too much for Terminal to handle.
+#Original Information is too much for Terminal to display in VSCode.
 PSCevents = []
 PSCdetails = []
 PSClinks = []
@@ -28,11 +28,6 @@ for event in evdata.find_all("h3", class_="em-card_title"):
     #print("\n")
     PSCevents.append(event.get_text(strip=True))
 
-
-for event in evdata.find_all("h3", class_="em-card_title" and "a"): #Change the href_, as it looks for that specific length
-    #print(event.get_text(strip=True))
-    PSClinks.append(event.get_text(strip=True))
-
 #Marks Time AND Location. Format = <Time> , <Location>
 for event in evdata.find_all("p", class_="em-card_event-text"):
     #print(event.get_text(strip=True))
@@ -46,4 +41,10 @@ PSCcombined = set(zip(PSCevents, PSClocate[1::2], PSClocate[::2]))
 #print (PSCevents)
 #print (PSClinks)
 #print (PSClocate)
-print (PSCcombined)
+#print (PSCcombined)
+
+
+for event in PSCcombined:
+    #Display Friendly
+    print("\n")
+    print(event)
