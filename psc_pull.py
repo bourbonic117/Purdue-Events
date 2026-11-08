@@ -19,21 +19,20 @@ PSClinks = []
 PSClocate = []
 
 titles = evdata.find_all("h3", class_="em-card_title")
-print (titles)
-#Check through the 'Network' Section and digest the event cards??
-#Review 'titles', as it has titles & their links.
+#print (titles)
 
 for event in evdata.find_all("h3", class_="em-card_title"):
     #print(event.get_text(strip=True))
-    #print("\n")
     PSCevents.append(event.get_text(strip=True))
+    link = event.find('a', href=True)
+    PSClinks.append(link.get('href') if link else None)
 
 #Marks Time AND Location. Format = <Time> , <Location>
 for event in evdata.find_all("p", class_="em-card_event-text"):
     #print(event.get_text(strip=True))
     PSClocate.append(event.get_text(strip=True))
 
-PSCcombined = set(zip(PSCevents, PSClocate[1::2], PSClocate[::2]))
+PSCcombined = set(zip(PSCevents, PSClocate[1::2], PSClocate[::2]), PSClinks)
 
 #--------Troubleshooting_Problems---------------------------------
 
@@ -43,8 +42,8 @@ PSCcombined = set(zip(PSCevents, PSClocate[1::2], PSClocate[::2]))
 #print (PSClocate)
 #print (PSCcombined)
 
-
+print ("The Following List is NOT in chronological order.")
 for event in PSCcombined:
-    #Display Friendly
+    #Display Friendly Vers.
     print("\n")
     print(event)
