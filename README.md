@@ -84,3 +84,4 @@ References
 Krotov, V., Johnson, L., & Silva, L. (2020). Tutorial: Legality and ethics of web scraping. Communications of the Association for Information Systems, 47. https://doi.org/10.17705/1CAIS.04724
 Koster, M., Illyes, G., Zeller, H., & Sassman, L. (2022). Robots Exclusion Protocol (RFC 9309). Internet Engineering Task Force. https://www.rfc-editor.org/rfc/rfc9309
 Localist API documentation: https://developer.localist.com/doc/api
+[Needs to updated in regards to updated programs]
