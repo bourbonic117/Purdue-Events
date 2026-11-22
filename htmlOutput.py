@@ -59,7 +59,7 @@ def info(ev):
     title, desc = ev.get("title") or "", ev.get("description") or ""
     blob = (title + " " + desc).lower()
     where = ((ev.get("location") or "") + " " + title).lower()
-    sources = [s["name"] for s in ev.get("sources", [])] or [ev.get("source") or "Unknown"]
+    sources = list(dict.fromkeys(s["name"] for s in ev.get("sources", []))) or [ev.get("source") or "Unknown"]
 
     fields = [f for f, words in FIELD_KEYWORDS.items() if has_word(blob, words)]
     flags = []
