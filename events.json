@@ -2,316 +2,6 @@
   {
     "title": "Men's Tennis -  Purdue at Big Ten Individuals Championships",
     "description": "Men's Tennis - Purdue at Big Ten Individuals Championships https://purduesports.com/boxscore/17091",
-    "start": "2026-11-22T00:00:00-05:00",
-    "end": null,
-    "location": "Ann Arbor, Mich.",
-    "address": null,
-    "url": "https://events.purdue.edu/event/mens-tennis-purdue-at-big-ten-individuals-championships",
-    "image": "https://localist-images.azureedge.net/photos/41370439743352/huge/b906df4f3be5c7f12d381a9a7d26df0854f48b84.jpg",
-    "organizer": null,
-    "tags": [
-      "Athletics"
-    ],
-    "perks": [],
-    "source": "Purdue Events + Purdue Events",
-    "sources": [
-      {
-        "name": "Purdue Events",
-        "url": "https://events.purdue.edu/event/mens-tennis-purdue-at-big-ten-individuals-championships"
-      },
-      {
-        "name": "Purdue Events",
-        "url": "https://events.purdue.edu/event/womens-tennis-purdue-at-ncaa-individuals-championships"
-      }
-    ]
-  },
-  {
-    "title": "Men's Tennis -  Purdue at NCAA Singles Championship",
-    "description": "Men's Tennis - Purdue at NCAA Singles Championship https://purduesports.com/boxscore/17291",
-    "start": "2026-11-22T00:00:00-05:00",
-    "end": null,
-    "location": "Athens, Ga.",
-    "address": null,
-    "url": "https://events.purdue.edu/event/mens-tennis-purdue-at-ncaa-singles-championship",
-    "image": "https://localist-images.azureedge.net/photos/41370439743352/huge/b906df4f3be5c7f12d381a9a7d26df0854f48b84.jpg",
-    "organizer": null,
-    "tags": [
-      "Athletics"
-    ],
-    "perks": [],
-    "source": "Purdue Events",
-    "sources": [
-      {
-        "name": "Purdue Events",
-        "url": "https://events.purdue.edu/event/mens-tennis-purdue-at-ncaa-singles-championship"
-      }
-    ]
-  },
-  {
-    "title": "Purdue University 2026 Winter Open",
-    "description": "We will be hosting an Individual's Fencing tournament on 11/22. For the Individuals' tournament, all local members of the US Fencing Association will be invited to participate.",
-    "start": "2026-11-22T08:00:00-05:00",
-    "end": "2026-11-22T20:00:00-05:00",
-    "location": "Lambert (Ward L.) Fieldhouse and Gymnasium ",
-    "address": null,
-    "url": "https://boilerlink.purdue.edu/event/12994549",
-    "image": "https://se-images.campuslabs.com/clink/images/048ccac4-636b-480d-9149-abb0d2109e58730c0ed7-6a82-495c-870b-9d7c99f1c156.png",
-    "organizer": "Fencing Club/Team",
-    "tags": [
-      "Recreation/Athletic"
-    ],
-    "perks": [],
-    "source": "BoilerLink",
-    "sources": [
-      {
-        "name": "BoilerLink",
-        "url": "https://boilerlink.purdue.edu/event/12994549"
-      }
-    ]
-  },
-  {
-    "title": "Purdue Brazilian Jiujitsu and MMA at Purdue Practice",
-    "description": "Learn self-defense and sport jiujitsu techniques. Please wear athletic clothing, avoid shorts with pockets, and trim your nails. No prior experience required. *First half of the practice will be for Purdue BJJ and the second half will be for Purdue MMA.",
-    "start": "2026-11-22T13:00:00-05:00",
-    "end": "2026-11-22T17:00:00-05:00",
-    "location": "Multi Purpose Room 4 @ the Corec",
-    "address": null,
-    "url": "https://boilerlink.purdue.edu/event/12931664",
-    "image": null,
-    "organizer": "Purdue Brazilian Jiu Jitsu Club",
-    "tags": [],
-    "perks": [],
-    "source": "BoilerLink",
-    "sources": [
-      {
-        "name": "BoilerLink",
-        "url": "https://boilerlink.purdue.edu/event/12931664"
-      }
-    ]
-  },
-  {
-    "title": "Pride & Prejudice",
-    "description": "About the relationship between the intelligent and spirited Elizabeth Bennet and the wealthy, proud Mr. Darcy. Set in Regency-era England, the story follows the Bennet family and their five daughters as they navigate societal pressures and the search for suitable marriages. Initially, both Elizabeth and Darcy are prejudiced against each other—she judges him for his arrogance, while he looks down on her lower social standing. Through various misunderstandings and personal growth, they eventually overcome their pride and prejudice to fall in love.",
-    "start": "2026-11-22T14:30:00-05:00",
-    "end": "2026-11-22T16:30:00-05:00",
-    "location": "Yue-Kong Pao Hall of Visual & Perf Arts",
-    "address": "552 W Wood St, West Lafayette, IN 47907-2002",
-    "url": "https://events.purdue.edu/event/pride-prejudice",
-    "image": "https://localist-images.azureedge.net/photos/53566994637315/huge/2fd26ed948d638b1a51a0d7fc3c7381d126c5b77.jpg",
-    "organizer": null,
-    "tags": [
-      "Concert/performance"
-    ],
-    "perks": [],
-    "source": "Purdue Events",
-    "sources": [
-      {
-        "name": "Purdue Events",
-        "url": "https://events.purdue.edu/event/pride-prejudice"
-      }
-    ]
-  },
-  {
-    "title": "Purdue Bands & Orchestras Presents University & Symphony Orchestras",
-    "description": "All Purdue Bands & Orchestras concerts are free and open to the public.",
-    "start": "2026-11-22T14:30:00-05:00",
-    "end": null,
-    "location": "Long Center for the Performing Arts",
-    "address": "111 North 6th Street Lafayette, IN 47901",
-    "url": "https://events.purdue.edu/event/purdue-bands-orchestras-presents-university-symphony-orchestras-419",
-    "image": "https://localist-images.azureedge.net/photos/53790350498857/huge/5135fddad1e1875a635778c01aa09965bcd75cfa.jpg",
-    "organizer": null,
-    "tags": [
-      "Concert/performance"
-    ],
-    "perks": [],
-    "source": "Purdue Events",
-    "sources": [
-      {
-        "name": "Purdue Events",
-        "url": "https://events.purdue.edu/event/purdue-bands-orchestras-presents-university-symphony-orchestras-419"
-      }
-    ]
-  },
-  {
-    "title": "Doktor Kaboom: Under Pressure!",
-    "description": "Be amazed by the power of pressure—and what it can teach us. Equal parts interactive science, comedy, and personal empowerment messages, Doktor Kaboom returns to Purdue with his new show. Doktor Kaboom: Under Pressure!illustrates physical science concepts, which are also metaphors for real-life mental and emotional pressures. Praised for keeping crowds riveted with interest and rolling with laughter, Doktor Kaboom is also known for empowering volunteers from the audience to be the heroes of the moment. In Under Pressure!, Kaboom validates the pressures some students may feel, and shares tools and life lessons as resources for dealing with the difficulties that face us all.",
-    "start": "2026-11-22T15:00:00-05:00",
-    "end": null,
-    "location": "Loeb Playhouse - Stewart Center",
-    "address": "128 Memorial Mall, West Lafayette, IN 47907-2034",
-    "url": "https://events.purdue.edu/event/doktor-kaboom-under-pressure",
-    "image": "https://localist-images.azureedge.net/photos/52817386252582/huge/7a14ff702ddef3c729843418b004561ee10c214b.jpg",
-    "organizer": null,
-    "tags": [
-      "Concert/performance"
-    ],
-    "perks": [],
-    "source": "Purdue Events",
-    "sources": [
-      {
-        "name": "Purdue Events",
-        "url": "https://events.purdue.edu/event/doktor-kaboom-under-pressure"
-      }
-    ]
-  },
-  {
-    "title": "SEC Nuclear Branch Meeting",
-    "description": "The Sustainable Energy Club (SEC) Nuclear Branch Meeting will provide members with the opportunity to participate in hands-on engineering work related to the branch's current steam turbine project. Members will collaborate on the design, construction, assembly, and testing of project components while applying engineering principles related to steam systems, turbines, and sustainable energy. The meeting may also include project updates, technical discussions, troubleshooting, and collaborative problem-solving. Members will work together in a hands-on environment to develop practical engineering skills and contribute to the progress of the steam turbine project. Any necessary materials and equipment will be set up before the meeting and properly cleaned, stored, and removed at the conclusion of the event. The space will be left clean and organized.",
-    "start": "2026-11-22T16:30:00-05:00",
-    "end": "2026-11-22T18:00:00-05:00",
-    "location": "KRCH 230",
-    "address": null,
-    "url": "https://boilerlink.purdue.edu/event/12670551",
-    "image": "https://se-images.campuslabs.com/clink/images/4035ce12-4e14-4573-b1eb-e6e78dc3493ba0e4ace1-f408-4919-91e0-643f36d18b8d.png",
-    "organizer": "The Sustainable Energy Club of Purdue",
-    "tags": [],
-    "perks": [],
-    "source": "BoilerLink",
-    "sources": [
-      {
-        "name": "BoilerLink",
-        "url": "https://boilerlink.purdue.edu/event/12670551"
-      }
-    ]
-  },
-  {
-    "title": "Juggling and Unicycling Club Meeting",
-    "description": "Regular club meetings, hosted in the armory. Juggling indoors, unicycling outdoors.",
-    "start": "2026-11-22T16:30:00-05:00",
-    "end": "2026-11-22T18:30:00-05:00",
-    "location": "Purdue Armory",
-    "address": null,
-    "url": "https://boilerlink.purdue.edu/event/12365251",
-    "image": "https://se-images.campuslabs.com/clink/images/e930ae91-6130-4c1b-ab69-a175031932e48434177b-ab93-4e77-8d79-a1440307b078.png",
-    "organizer": "Juggling and Unicycling Club",
-    "tags": [
-      "Meeting",
-      "Recreation/Athletic",
-      "Social"
-    ],
-    "perks": [],
-    "source": "BoilerLink",
-    "sources": [
-      {
-        "name": "BoilerLink",
-        "url": "https://boilerlink.purdue.edu/event/12365251"
-      }
-    ]
-  },
-  {
-    "title": "Tango Fall Skill Development",
-    "description": "Skill Development Classes for people that want to make their dance feel smoother and nicer. There will be an instructor for people to learn from.",
-    "start": "2026-11-22T17:00:00-05:00",
-    "end": "2026-11-22T18:00:00-05:00",
-    "location": "BRNG 1254",
-    "address": null,
-    "url": "https://boilerlink.purdue.edu/event/12851827",
-    "image": "https://se-images.campuslabs.com/clink/images/8a84cd1d-30cb-4364-9a41-da580a0e2e1304e84b50-258c-444d-8e42-dbab24137176.png",
-    "organizer": "La Milonguera Argentine Tango Club",
-    "tags": [],
-    "perks": [],
-    "source": "BoilerLink",
-    "sources": [
-      {
-        "name": "BoilerLink",
-        "url": "https://boilerlink.purdue.edu/event/12851827"
-      }
-    ]
-  },
-  {
-    "title": "Chess x Climbing Collab",
-    "description": "We are doing a collaboration between the Chess Club and the Climbing Club. We are going to be doing \"chess climbing,\" where players will climb routes during a chess match to press their clocks. It is meant to boost collaboration between clubs and mix two fun hobbies. There will be food provided for everyone who comes.",
-    "start": "2026-11-22T17:00:00-05:00",
-    "end": "2026-11-22T19:00:00-05:00",
-    "location": "North Mass Boulder Climbing Gym",
-    "address": null,
-    "url": "https://boilerlink.purdue.edu/event/12948901",
-    "image": "https://se-images.campuslabs.com/clink/images/a4fb9b7e-ab23-451a-a49b-a3eba47b408095229a30-f09a-4d64-ad23-7d61624422c9.png",
-    "organizer": "Chess Club Purdue Indianapolis",
-    "tags": [
-      "Recreation/Athletic",
-      "Social"
-    ],
-    "perks": [
-      "Food"
-    ],
-    "source": "BoilerLink",
-    "sources": [
-      {
-        "name": "BoilerLink",
-        "url": "https://boilerlink.purdue.edu/event/12948901"
-      }
-    ]
-  },
-  {
-    "title": "HGDC Fall Practices 2026",
-    "description": "Practices for our Fall 2026 Shows.",
-    "start": "2026-11-22T17:00:00-05:00",
-    "end": "2026-11-22T22:00:00-05:00",
-    "location": "CoRec",
-    "address": null,
-    "url": "https://boilerlink.purdue.edu/event/12492499",
-    "image": null,
-    "organizer": "Higher Ground Dance Company",
-    "tags": [],
-    "perks": [],
-    "source": "BoilerLink",
-    "sources": [
-      {
-        "name": "BoilerLink",
-        "url": "https://boilerlink.purdue.edu/event/12492499"
-      }
-    ]
-  },
-  {
-    "title": "Chess + Climbing",
-    "description": "",
-    "start": "2026-11-22T17:00:00-05:00",
-    "end": null,
-    "location": "North Mass Boulder, 1411 Roosevelt Ave, Indianapolis, IN 46201",
-    "address": null,
-    "url": null,
-    "image": "https://campusbord.com/api/event/img/1a2d5ba6fed6699cb9ced203ed959c653ecdceb9eed3e9298514b7f9f9c5e4f2",
-    "organizer": "Chess Club & Climbing Club",
-    "tags": [
-      "Social",
-      "Sport"
-    ],
-    "perks": [
-      "Food"
-    ],
-    "source": "CampusBord",
-    "sources": [
-      {
-        "name": "CampusBord",
-        "url": "https://campusbord.com/"
-      }
-    ]
-  },
-  {
-    "title": "Field Hockey Club of Purdue TREC Practices Fall 2026",
-    "description": "Our practices that will be held within the TREC for this fall!",
-    "start": "2026-11-22T20:00:00-05:00",
-    "end": "2026-11-22T21:00:00-05:00",
-    "location": "TREC, Field 2",
-    "address": null,
-    "url": "https://boilerlink.purdue.edu/event/12666389",
-    "image": "https://se-images.campuslabs.com/clink/images/140df4de-12b0-4ed0-9c52-ca74eaebcd066550462c-6e05-4ebf-a129-e7bee34cbb55.png",
-    "organizer": "Field Hockey Club of Purdue",
-    "tags": [],
-    "perks": [],
-    "source": "BoilerLink",
-    "sources": [
-      {
-        "name": "BoilerLink",
-        "url": "https://boilerlink.purdue.edu/event/12666389"
-      }
-    ]
-  },
-  {
-    "title": "Men's Tennis -  Purdue at Big Ten Individuals Championships",
-    "description": "Men's Tennis - Purdue at Big Ten Individuals Championships https://purduesports.com/boxscore/17091",
     "start": "2026-11-23T00:00:00-05:00",
     "end": null,
     "location": "Ann Arbor, Mich.",
@@ -11463,6 +11153,72 @@
       {
         "name": "Purdue Events",
         "url": "https://events.purdue.edu/event/mens-basketball-purdue-vs-cal-baptist"
+      }
+    ]
+  },
+  {
+    "title": "Brightspace and Instructional Technology Drop-In Help Session",
+    "description": "Intended Audience: Individuals facilitating or assisting with courses in Brightspace and/or any of the TLT-supported technologies. Seeking assistance with your Brightspace course? Looking for ways to best utilize instructional technologies in your course? These drop-in sessions are just for you! These sessions provide an opportunity for individuals to bring their questions and seek assistance from Teaching and Learning Technologies staff. These are first-come, first-served sessions. Upon entering the session, you will be brought into the main room where you can share with us what you are working on. We will then pair you with a staff member to receive 1:1 assistance in a breakout room where you can share screens. This is a 60 minute online session. You are welcome to join as you are able throughout the hour. Registration is not required. Purdue University is committed to creating a campus that is fully accessible to all and to eliminating barriers for people with disabilities. To request an accommodation for this session, please email us at TLT@purdue.edu. Connection Information Zoom linkMeeting ID: 933 2840 4490Passcode: 231935",
+    "start": "2026-12-22T10:00:00-05:00",
+    "end": "2026-12-22T11:00:00-05:00",
+    "location": null,
+    "address": null,
+    "url": "https://events.purdue.edu/event/brightspace_and_instructional_technology_drop-in_help_session_8943",
+    "image": "https://localist-images.azureedge.net/photos/45136128791030/huge/e23d23d2043cde13e14ce2e6517c4b689afdddad.jpg",
+    "organizer": null,
+    "tags": [
+      "Lecture/talk"
+    ],
+    "perks": [],
+    "source": "Purdue Events",
+    "sources": [
+      {
+        "name": "Purdue Events",
+        "url": "https://events.purdue.edu/event/brightspace_and_instructional_technology_drop-in_help_session_8943"
+      }
+    ]
+  },
+  {
+    "title": "Women's Basketball -  Purdue vs. Western Michigan",
+    "description": "Women's Basketball - Purdue vs. Western Michigan https://purduesports.com/boxscore/16959",
+    "start": "2026-12-22T12:00:00-05:00",
+    "end": "2026-12-22T14:00:00-05:00",
+    "location": "West Lafayette, Ind.",
+    "address": null,
+    "url": "https://events.purdue.edu/event/womens-basketball-purdue-vs-western-michigan",
+    "image": "https://localist-images.azureedge.net/photos/40481322811336/huge/18b9b347032f63bf69aa8d6862c17ffdc8db5264.jpg",
+    "organizer": null,
+    "tags": [
+      "Athletics"
+    ],
+    "perks": [],
+    "source": "Purdue Events",
+    "sources": [
+      {
+        "name": "Purdue Events",
+        "url": "https://events.purdue.edu/event/womens-basketball-purdue-vs-western-michigan"
+      }
+    ]
+  },
+  {
+    "title": "Brightspace and Instructional Technology Drop-In Help Session",
+    "description": "Intended Audience: Individuals facilitating or assisting with courses in Brightspace and/or any of the TLT-supported technologies. Seeking assistance with your Brightspace course? Looking for ways to best utilize instructional technologies in your course? These drop-in sessions are just for you! These sessions provide an opportunity for individuals to bring their questions and seek assistance from Teaching and Learning Technologies staff. These are first-come, first-served sessions. Upon entering the session, you will be brought into the main room where you can share with us what you are working on. We will then pair you with a staff member to receive 1:1 assistance in a breakout room where you can share screens. This is a 60 minute online session. You are welcome to join as you are able throughout the hour. Registration is not required. Purdue University is committed to creating a campus that is fully accessible to all and to eliminating barriers for people with disabilities. To request an accommodation for this session, please email us at TLT@purdue.edu. Connection Information Zoom linkMeeting ID: 933 2840 4490Passcode: 231935",
+    "start": "2026-12-22T14:00:00-05:00",
+    "end": "2026-12-22T15:00:00-05:00",
+    "location": null,
+    "address": null,
+    "url": "https://events.purdue.edu/event/brightspace_and_instructional_technology_drop-in_help_session_8943",
+    "image": "https://localist-images.azureedge.net/photos/45136128791030/huge/e23d23d2043cde13e14ce2e6517c4b689afdddad.jpg",
+    "organizer": null,
+    "tags": [
+      "Lecture/talk"
+    ],
+    "perks": [],
+    "source": "Purdue Events",
+    "sources": [
+      {
+        "name": "Purdue Events",
+        "url": "https://events.purdue.edu/event/brightspace_and_instructional_technology_drop-in_help_session_8943"
       }
     ]
   }
